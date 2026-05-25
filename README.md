@@ -2,7 +2,7 @@
   <strong>─── 🖥️ System Configuration ───</strong><br><br>
   <b>OS:</b> <code><a href="https://github.com/5aether/aetheros">AetherOS</a></code><br>
   <b>Kernel:</b> <code>7.0.9-205.fc44.x86_64</code><br>
-  <b>WM:</b> <code><a href="https://github.com/koeqaife/hyprland-material-you">HyprYou</a></code><br>
+  <b>DE:</b> <code><a href="https://github.com/koeqaife/hyprland-material-you">HyprYou</a></code><br>
   <b>Shell:</b> <code>Bash</code><br>
   <b>Editor:</b> <code>Neovim</code>
 </p>
