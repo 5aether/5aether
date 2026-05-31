@@ -2,7 +2,7 @@
   <strong>─── 🖥️ System Configuration ───</strong><br><br>
   <b>OS:</b> <code>Arch Linux</code><br>
   <b>Kernel:</b> <code>7.0.9-205.fc44.x86_64</code><br>
-  <b>DE:</b> <code>Hyprland</code><br>
+  <b>DE:</b> <code>Niri</code><br>
   <b>Shell:</b> <code>Bash</code><br>
   <b>Editor:</b> <code>Neovim</code>
 </p>
