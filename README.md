@@ -1,10 +1,10 @@
 <p align="center">
   <strong>─── 🖥️ System Configuration ───</strong><br><br>
-  <b>OS:</b> <code>Arch Linux</code><br>
-  <b>Kernel:</b> <code>7.0.9-205.fc44.x86_64</code><br>
-  <b>DE:</b> <code>Niri</code><br>
+  <b>OS:</b> <code>ZorinOS 18.1</code><br>
+  <b>Kernel:</b> <code>6.17.0-35-generic</code><br>
+  <b>DE:</b> <code>Zorin Desktop (Gnome)</code><br>
   <b>Shell:</b> <code>Bash</code><br>
-  <b>Editor:</b> <code>Neovim</code>
+  <b>Editor:</b> <code>Neovim & Zed Editor</code>
 </p>
 
 <br>
